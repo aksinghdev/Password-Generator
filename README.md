@@ -24,9 +24,8 @@ A clean, modern password generator tool built with vanilla HTML, CSS, and JavaSc
 
 ## 🚀 Live Demo
 
-🔗 [View Live on Vercel](https://your-vercel-url.vercel.app)
+🔗 [View Live on Vercel](https://password-generator-pi-one-96.vercel.app/)
 
-> Replace the above link with your actual Vercel URL after deployment.
 
 ## 📁 Project Structure
 
